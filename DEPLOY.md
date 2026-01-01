@@ -10,6 +10,7 @@ APP_ENV=production
 APP_DEBUG=false
 APP_URL=https://ton-domaine.railway.app
 LOG_CHANNEL=stack
+DB_CONNECTION=sqlite
 ```
 
 ## Étapes de déploiement
